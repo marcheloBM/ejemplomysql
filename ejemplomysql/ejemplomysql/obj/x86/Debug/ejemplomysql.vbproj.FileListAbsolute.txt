@@ -1,0 +1,24 @@
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.exe
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.pdb
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.xml
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.Form1.resources
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.Resources.resources
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.vbproj.GenerateResource.Cache
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.exe
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.xml
+C:\Users\Juan Jara Meneses\Desktop\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.pdb
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.vbproj.AssemblyReference.cache
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.Form1.resources
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.Resources.resources
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.vbproj.GenerateResource.cache
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.vbproj.CoreCompileInputs.cache
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.exe
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.xml
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.pdb
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.exe.config
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.exe
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.pdb
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\bin\Debug\ejemplomysql.xml
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\bin\Debug\MySql.Data.dll
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplom.12189E1D.Up2Date
+D:\Users\march\Desktop\Proyecto+conector\ejemplomysql\ejemplomysql\obj\x86\Debug\ejemplomysql.exe.config
