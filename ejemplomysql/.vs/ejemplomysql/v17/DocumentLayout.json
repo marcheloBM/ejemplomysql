@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Users\\march\\Desktop\\Proyecto\u002Bconector\\ejemplomysql\\",
+  "WorkspaceRootPath": "D:\\Users\\march\\Documents\\GitHub\\Visual Studio\\ejemplomysql\\ejemplomysql\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAEFCAD9-0165-439A-B844-A01C705840FE}|ejemplomysql\\ejemplomysql.vbproj|d:\\users\\march\\desktop\\proyecto\u002Bconector\\ejemplomysql\\ejemplomysql\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CAEFCAD9-0165-439A-B844-A01C705840FE}|ejemplomysql\\ejemplomysql.vbproj|d:\\users\\march\\documents\\github\\visual studio\\ejemplomysql\\ejemplomysql\\ejemplomysql\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CAEFCAD9-0165-439A-B844-A01C705840FE}|ejemplomysql\\ejemplomysql.vbproj|solutionrelative:ejemplomysql\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -17,21 +17,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\Users\\march\\Desktop\\Proyecto\u002Bconector\\ejemplomysql\\ejemplomysql\\Form1.vb",
+              "DocumentMoniker": "D:\\Users\\march\\Documents\\GitHub\\Visual Studio\\ejemplomysql\\ejemplomysql\\ejemplomysql\\Form1.vb",
               "RelativeDocumentMoniker": "ejemplomysql\\Form1.vb",
-              "ToolTip": "D:\\Users\\march\\Desktop\\Proyecto\u002Bconector\\ejemplomysql\\ejemplomysql\\Form1.vb",
+              "ToolTip": "D:\\Users\\march\\Documents\\GitHub\\Visual Studio\\ejemplomysql\\ejemplomysql\\ejemplomysql\\Form1.vb",
               "RelativeToolTip": "ejemplomysql\\Form1.vb",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAMwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-02-17T03:13:18.535Z",
               "EditorCaption": ""
@@ -41,13 +37,16 @@
               "DocumentIndex": 1,
               "Title": "MyProject.cs",
               "DocumentMoniker": "D:\\Users\\march\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
               "ToolTip": "D:\\Users\\march\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1d173f8c96ab8e5bcd90eeea27abf276c23751a26004860fefb84607b6c07300\\MyProject.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAEAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T03:07:59.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T03:07:59.993Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
